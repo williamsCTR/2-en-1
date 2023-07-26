@@ -1,0 +1,19 @@
+﻿body {
+    background-color:#808080;
+    color:#ffffff;
+}
+
+.centrar{
+    text-align: center;
+}
+
+/* ----- CALCULADORA ----- */
+.calculadora {
+   /* border-radius: 0em;*/
+}
+
+.boton {
+    border-radius: 50em;
+}
+
+/* ----- CONVERTIDOR DE UNIDADES ----- */
